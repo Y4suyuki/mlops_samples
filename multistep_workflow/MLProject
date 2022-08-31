@@ -1,6 +1,6 @@
 name: foo
 
-python_env: python_env.yaml
+conda_env: conda_env.yaml
 
 entry_points:
   load_raw_data:
